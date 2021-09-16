@@ -44,7 +44,7 @@
 
 <a href="https://github.com/anLpk">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anLpk&hide=shell,lua,vim%20script,dockerfile,javascript,css&hide_border=true"/></a>
-<a href="https://github.com/enitschorn">
+<a href="https://github.com/anLpk">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=anLpk&hide_border=true&show_icons=true&count_private=true&langs_count=10"/>
 </a>
 
