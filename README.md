@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![anLpk profile view count](https://komarev.com/ghpvc/?username=anLpk&color=orange)
-
 #### I'm a Software Developer working in Melbourne, Australia.
 
 - 🔭 I’m currently working at **Tribal Edge** as a Junior Software Developer
