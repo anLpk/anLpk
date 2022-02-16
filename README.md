@@ -9,6 +9,7 @@
   * Angular - NgRx and RxJS
 - 🤔 I’m curious about:
   * Game Development
+  * React & Next.js
   * Blockchain
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/anil-pak/)
 - 😄 Pronouns: he/him
