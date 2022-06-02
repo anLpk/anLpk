@@ -3,17 +3,14 @@
 #### I'm a Software Developer working in Melbourne, Australia.
 
 - 🔭 I’m currently working at **Tribal Edge** as a Junior Software Developer
-- 🔨 I use daily: `TypeScript`, `Angular`, `C#`, `Azure`, `.NET Core`, `CSS`
+- 🔨 I use daily: `.NET Core`, `Angular`, `TypeScript`, `SQL`, `Azure`, `CSS`
 - 🌱 I'm currently learning: 
-  * .NET - Entity Framework
   * Angular - NgRx and RxJS
 - 🤔 I’m curious about:
-  * Game Development
   * React & Next.js
   * Blockchain
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/anil-pak/)
 - 😄 Pronouns: he/him
-
 
 <h1 align="center">Experience</h1>
 <div>
