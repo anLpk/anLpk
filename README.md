@@ -8,7 +8,6 @@
   * Angular - NgRx and RxJS
 - 🤔 I’m curious about:
   * React & Next.js
-  * Blockchain
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/anil-pak/)
 - 😄 Pronouns: he/him
 
