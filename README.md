@@ -5,9 +5,9 @@
 - 🔭 I’m currently working at **Tribal Edge** as a Junior Software Developer
 - 🔨 I use daily: `.NET Core`, `Angular`, `TypeScript`, `SQL`, `Azure`, `CSS`
 - 🌱 I'm currently learning: 
-  * Angular - NgRx and RxJS
+  * React and RxJS
 - 🤔 I’m curious about:
-  * React & Next.js
+  * Next.js
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/anil-pak/)
 - 😄 Pronouns: he/him
 
