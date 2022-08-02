@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-#### I'm a Software Developer working in Melbourne, Australia.
+#### I'm a Software Engineer working in Melbourne, Australia.
 
-- 🔭 I’m currently working at **Tribal Edge** as a Junior Software Developer
-- 🔨 I use daily: `.NET Core`, `Angular`, `TypeScript`, `SQL`, `Azure`, `CSS`
-- 🌱 I'm currently learning: 
-  * React and RxJS
+- 🔭 I’m currently working at **Performio** as a Junior Software Engineer
+- 🔨 I use daily: `React`, `TypeScript`, `SQL`, `AWS`, `CSS`
 - 🤔 I’m curious about:
   * Next.js
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/anil-pak/)
