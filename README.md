@@ -8,5 +8,3 @@
   * Next.js
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/anil-pak/)
 - 😄 Pronouns: he/him
-
----
