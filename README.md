@@ -3,7 +3,7 @@
 #### I'm a Software Engineer working in Melbourne, Australia.
 
 - 🔭 I’m currently working at **Performio** as a Junior Software Engineer
-- 🔨 I use daily: `React`, `TypeScript`, `MySQL`, `AWS`, `CSS`, `Chakra-UI`
+- 🔨 I use daily: `React`, `TypeScript`, `MySQL`, `AWS`, `CSS`, `Chakra-UI`, `Design System`
 - 🤔 I’m curious about:
   * Next.js
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/anil-pak/)
