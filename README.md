@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a FrontEnd Engineer working in Melbourne, Australia.
+#### I'm a Frontend Engineer working in Melbourne, Australia.
 
 - 🔭 I’m currently working at **Performio** as a Front-end Engineer
 - 🔨 I use daily: `React`, `TypeScript`, `Chakra-UI`, `Design System`, `Storybook`, `Chromatic`, `Jest`
